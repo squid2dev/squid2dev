@@ -34,6 +34,10 @@ const sarp = {
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge\&logo=css3)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
 
-## 📊 GitHub
+## 📊  Currently
 
-Currently Working On: ...
+Currently I am taking courses from:
+
+* 👨🏻‍💻 HarvardX: CS50's Web Programming with Python and JavaScript
+* 🎮 HP: A Complete Guide to Game Design
+* 👨🏻‍🎓 HP: From Code to Creation: Mastering Game Programming
